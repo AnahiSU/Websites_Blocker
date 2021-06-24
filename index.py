@@ -2,12 +2,9 @@ import time
 from datetime import datetime as dt
 
 pages_list = [
-    'https://www.youtube.com',
     'youtube.com',
-    'www.youtube.com'
     'facebook.com',
     'instagram.com',
-    'www.instagram.com'
 ]
 
 start_h = 8
